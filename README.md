@@ -9,4 +9,3 @@
 ### 💬 Ask me about how to start your journey into the world of data analytics, what skills to learn initially and the best resources to do so. 
 ### 📫 Feel free to connect with me at https://www.linkedin.com/in/alberto-garcía-garcía- 
 ### ⚡ "Don't just look at data as data, they have feelings too :) (: capture them"
-
